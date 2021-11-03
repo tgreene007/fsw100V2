@@ -1,1 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+    <div>
+        <h1>This Is h1</h1>
+        <img src="https://miro.medium.com/max/700/0*3xZnF5LQwuAzyCvV." alt="Power Foods">
+        <img src="https://as1.ftcdn.net/v2/jpg/02/86/56/54/500_F_286565441_WOriAVBqXr7e6ScWWcnBSkDnAGaZ6aFS.jpg" alt="Brain Foods">
+        <img src="https://www.healthmagazine.ae/wp-content/uploads/2016/11/For-Healthy-Heart.jpg" alt="Heart Foods">
+    </div>
+    <div>
+        <h2>This is h2</h2>
+        <a href="https://healthbeat.spectrumhealth.org/guard-your-heart-healthy-diet/">Foods For your Heart</a>
+        <a href="https://medium.com/thrive-global/power-foods-for-the-brain-56a28e94ff55">Foods For Your Brain</a>
+        <a href="https://bookxcessonline.myshopify.com/products/super-foods-super-easy-cooking-with-natures-power-foods">Super Easy Power Foods(Book)</a>
+    </div>
+    <div>
+        <h3>This is h3</h3>
+        <p>What you eat is very important to how your body reacts to everything. Things like weather, stress and even our sleep is affected by what we eat!</p>
+    </div>
+    <div>
+        <h4>This is h4</h4>
 
+        <span>This</span>
+        <span>is</span>
+        <span>using</span>
+        <span>span</span>
+        <span>tags.</span>
+    </div>
+    <div>
+        <h5>This is h5</h5>
+        <ol>
+            <li>Eat Right</li>
+            <li>Exercise</li>
+            <li>Be Happy</li>
+          </ol>
+    </div>
+    <div>
+        <h6>This is h6</h6>
+        <ul>
+            <li>BE</li>
+            <li>YOUR</li>
+            <li>BEST</li>
+          </ul>
+    </div>
+</body>
+</html>
