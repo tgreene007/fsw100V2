@@ -1,0 +1,29 @@
+.font {
+    font-family: Georgia;
+    text-align:center;
+}
+
+h1.font{
+    color: darkgreen;
+}
+
+#body-para{
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#last-para{
+    text-transform: uppercase;
+}
+
+#image{
+    float: left;
+    margin: 25px 25px
+}
