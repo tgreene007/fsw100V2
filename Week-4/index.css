@@ -1,0 +1,51 @@
+.nav-bar {
+  position: fixed;
+  width: 100%;
+  margin: 10px;
+  background-color: rgb(55,44,22,.4);
+}
+.about {
+  position: relative;
+  left: 315px;
+}
+.menu {
+  position: relative;
+  left: 150px;
+}
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f1f1f1;
+}
+
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: white;
+}
+
+
+.column {
+
+  width: 75%;
+}
+
+.card {
+  background-color: white;
+  padding: 80px ;
+  margin-top: 20px;
+  grid-column: 2/3;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.image{
+  float: left;
+} 
