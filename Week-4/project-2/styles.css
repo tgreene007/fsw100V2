@@ -1,0 +1,39 @@
+.nav-bar {
+    position: fixed;
+    width: 95%;
+    background-color: rgba(126, 97, 41, 0.4);
+    font-family: 'Indie Flower', cursive;
+    font-size: large;
+    
+  }
+  .about {
+    position: relative;
+    left: 40%;
+  }
+  .menu {
+    position: relative;
+    left: 90%;
+  }
+  .home{
+      position: relative;
+      left: 5%;
+  }
+  body {
+    font-family: Arial;
+    padding: 20px;
+    background: #442f2f;
+  }
+  .header{
+      text-align: center;
+      padding: 5px;
+  }
+  .image{
+    float: left;
+  }
+  .footer{
+    text-align: end;
+    padding: 5px;
+  }
+  .h2{
+    text-align: center;
+  }
